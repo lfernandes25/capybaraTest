@@ -1,6 +1,6 @@
 # language: pt
 
-@CAPY004
+@CAPY002
 Funcionalidade: Clicando em links e botoes
 
 Cenário: Clicar em botoes e links
