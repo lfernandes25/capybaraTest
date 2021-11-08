@@ -20,3 +20,5 @@
 # require "capybara/cucumber"
 # require "selenium-webdriver"
 # 
+# Pegar dados dos elements
+# https://www.rubydoc.info/github/jnicklas/capybara/Capybara/Node/Finders
