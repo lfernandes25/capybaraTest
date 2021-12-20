@@ -1,8 +1,9 @@
 # language: pt
 
-@CAPY001
+@C01
 Funcionalidade: Acessar primeira url
 
+@C01.01
 Cenário: Acessar url com sucesso
 Dado que estou no navegador
 Quando eu acesso a url
